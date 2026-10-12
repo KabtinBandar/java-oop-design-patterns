@@ -1,0 +1,14 @@
+# Compiled Java Classes
+*.class
+build/
+bin/
+
+# NetBeans and IDE artifacts
+nbproject/private/
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
